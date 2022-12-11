@@ -11,12 +11,12 @@
 
 header {
     height: 80px;
-    background-color: darkslateblue;
+    background-color: red;
     display: flex;
     align-items: center;
     justify-content: space-between;
     padding: 0px 20px;
-    box-shadow: 5px 5px 5px 3px gray;
+    box-shadow: 5px 5px 5px 3px rgb(182, 49, 49);
     flex-wrap: wrap;
 }
 
